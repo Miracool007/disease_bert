@@ -1,9 +1,9 @@
-langchain
-langchain_huggingface
-langchain_groq
-langchain_chroma
-langchain_community
 os
-tempfile
-dotenv
-langchain_text_splitters
+time
+joblib
+numpy
+pandas
+torch
+datasets
+scikit-learn
+transformers
