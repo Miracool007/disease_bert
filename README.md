@@ -4,6 +4,8 @@
 
 The system is powered by a fine-tuned **DistilBERT transformer model** trained on a disease and symptom dataset. Unlike traditional symptom checkers that require users to select predefined symptoms, this application allows users to describe how they feel in their own words. The model analyzes the provided description and returns possible matching conditions with confidence scores.
 
+Click [here](https://drive.google.com/drive/u/2/folders/1yJ52yAmXVILWempV7Ut4AHstcuXvlsGp) to view model weights
+
 The goal of this project is to demonstrate how modern Natural Language Processing (NLP) techniques can be applied to healthcare-related text understanding and provide an accessible way to explore symptom patterns.
 
 ### How It Works
